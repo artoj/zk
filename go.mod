@@ -8,7 +8,7 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.2
 	github.com/alecthomas/kong v0.2.18-0.20210927063154-5c7b038540ab
 	github.com/aymerick/raymond v2.0.2+incompatible
-	github.com/bmatcuk/doublestar/v4 v4.0.2 // indirect
+	github.com/bmatcuk/doublestar/v4 v4.0.2
 	github.com/fatih/color v1.13.0
 	github.com/go-testfixtures/testfixtures/v3 v3.4.1
 	github.com/google/go-cmp v0.5.6
@@ -32,7 +32,7 @@ require (
 	github.com/yuin/goldmark v1.4.1
 	github.com/yuin/goldmark-meta v1.0.0
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
-	golang.org/x/sys v0.0.0-20211002104244-808efd93c36d // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/djherbis/times.v1 v1.3.0
